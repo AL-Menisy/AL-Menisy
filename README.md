@@ -1,4 +1,4 @@
-# Hey there, I'm [ِAbduallh Menisy]([https://yousefdergham.vercel.app/](https://www.linkedin.com/in/abdallh-menesy/)) 👋
+# Hey there, I'm [ِAbdualalh Menisy]([https://yousefdergham.vercel.app/](https://www.linkedin.com/in/abdallh-menesy/)) 👋
 
 **Frontend React Developer · CS Student · Coffee Lover ☕**
 
