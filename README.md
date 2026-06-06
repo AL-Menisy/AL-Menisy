@@ -2,7 +2,7 @@
 
 **Frontend React Developer · CS Student · Coffee Lover ☕**
 
-💼 **Current:** Study the JavaScript course on the Udemy platform
+💼 **Current:** Study the React.js course on the Udemy platform
 
 
 ## 🚀 About Me
